@@ -1,26 +1,9 @@
-.encabezado, h2{
-    color: rgb(211, 177, 177);
-
-  }
-
-    div{
-        color:blue
-
-  body {
-    background-color: aquamarine;
-     }
-        
-.cita {
-    font-style:italic;
-    color:brown
-    
- }
- .encabezado, h2 {
+.encabezado, h2 {
   color:rgb(231, 190, 190);
 }
 
 div {
-  color:rgb(236, 10, 10);
+  color:white;
 }
 
 body {
@@ -54,5 +37,8 @@ code {
 }
 
 a {
-  color:rgb(51, 238, 14);
+  color:royalblue;
 }
+    
+ }
+ 
