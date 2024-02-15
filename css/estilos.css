@@ -17,7 +17,7 @@ body {
 }
 
 p {
-  color:rgb(241, 241, 220);
+  color:rgb(190, 190, 55);
 }
 
 .p2 {
@@ -29,7 +29,7 @@ code {
 }
 
 .resumen {
-  color:rgb(117, 15, 15);
+  color:rgb(201, 77, 77);
   font-style:italic;
   font-size:small;
   margin: 10px 40px 25px 40px;
@@ -42,6 +42,6 @@ a {
     
 .cita {
   font-style:italic;
-  caret-color:azure;
+  caret-color:rgb(40, 252, 252);
   }
  col
