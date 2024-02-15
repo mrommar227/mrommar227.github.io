@@ -15,3 +15,44 @@
     color:brown
     
  }
+ .encabezado, h2 {
+  color:rgb(231, 190, 190);
+}
+
+div {
+  color:white;
+}
+
+body {
+  background-color: darkslategray;
+}
+
+.cita, td {
+  font-style:italic;
+  color:azure;
+  margin:20;
+}
+
+p {
+  color:rgb(241, 241, 220);
+}
+
+.p2 {
+  font-style:normal;
+  margin-left:20px
+}
+code {
+  font-style:normal;
+}
+
+.resumen {
+  color:rgb(239, 229, 229);
+  font-style:italic;
+  font-size:small;
+  margin: 10px 40px 25px 40px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+  color:royalblue;
+}
